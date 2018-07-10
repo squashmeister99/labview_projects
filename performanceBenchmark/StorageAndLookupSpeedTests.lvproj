@@ -28,6 +28,7 @@
 		</Item>
 		<Item Name="tests" Type="Folder">
 			<Item Name="test_add_elements.vi" Type="VI" URL="../test_add_elements.vi"/>
+			<Item Name="test_find_elements.vi" Type="VI" URL="../test_find_elements.vi"/>
 		</Item>
 		<Item Name="top level" Type="Folder">
 			<Item Name="find_element.vi" Type="VI" URL="../find_element.vi"/>
