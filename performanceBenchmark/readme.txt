@@ -1,0 +1,1 @@
+This projects demonstrates the performance benefits of using a variant over an array. Search and deletes are a lot faster in a variant than an array.

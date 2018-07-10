@@ -35,6 +35,7 @@
 			<Item Name="delete_element.vi" Type="VI" URL="../delete_element.vi"/>
 		</Item>
 		<Item Name="data_store.vi" Type="VI" URL="../data_store.vi"/>
+		<Item Name="readme.txt" Type="Document" URL="../readme.txt"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
