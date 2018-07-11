@@ -1,1 +1,1 @@
-This projects demonstrates the performance benefits of using a variant over an array. Search and deletes are a lot faster in a variant than an array.
+This projects compares using a variant vs. array. The idea is to see which data storage mechanism is more efficient for a various data set sizes
