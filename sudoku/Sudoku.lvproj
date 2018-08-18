@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="controls" Type="Folder">
 			<Item Name="cell.ctl" Type="VI" URL="../cell.ctl"/>
+			<Item Name="guess.ctl" Type="VI" URL="../guess.ctl"/>
 		</Item>
 		<Item Name="main" Type="Folder">
 			<Item Name="main.vi" Type="VI" URL="../main.vi"/>
@@ -28,6 +29,7 @@
 			<Item Name="sub_UnionOfValidValues.vi" Type="VI" URL="../sub_UnionOfValidValues.vi"/>
 			<Item Name="sub_updatePuzzle.vi" Type="VI" URL="../sub_updatePuzzle.vi"/>
 			<Item Name="sub_updateSolverArray.vi" Type="VI" URL="../sub_updateSolverArray.vi"/>
+			<Item Name="sub_getPotentialGuesses.vi" Type="VI" URL="../sub_getPotentialGuesses.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
@@ -44,6 +46,8 @@
 				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
 				<Item Name="Read Lines From File (with error IO).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File (with error IO).vi"/>
+				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
