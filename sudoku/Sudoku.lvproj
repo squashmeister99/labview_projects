@@ -38,6 +38,7 @@
 			<Item Name="sub_isInvalidPuzzle.vi" Type="VI" URL="../sub_isInvalidPuzzle.vi"/>
 			<Item Name="sub_verifyPuzzle.vi" Type="VI" URL="../sub_verifyPuzzle.vi"/>
 			<Item Name="sub_verifyRows.vi" Type="VI" URL="../sub_verifyRows.vi"/>
+			<Item Name="sub_applyGuess.vi" Type="VI" URL="../sub_applyGuess.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
