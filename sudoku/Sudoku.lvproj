@@ -23,6 +23,7 @@
 			<Item Name="sub_enqueue commands.vi" Type="VI" URL="../sub_enqueue commands.vi"/>
 			<Item Name="sub_findMissingNumbersAndIndexes.vi" Type="VI" URL="../sub_findMissingNumbersAndIndexes.vi"/>
 			<Item Name="sub_intitializePuzzleSolverArray.vi" Type="VI" URL="../sub_intitializePuzzleSolverArray.vi"/>
+			<Item Name="sub_solve.vi" Type="VI" URL="../sub_solve.vi"/>
 			<Item Name="sub_checkPuzzleStatus.vi" Type="VI" URL="../sub_checkPuzzleStatus.vi"/>
 			<Item Name="sub_load_puzzles.vi" Type="VI" URL="../sub_load_puzzles.vi"/>
 			<Item Name="sub_solve3x3submatrix.vi" Type="VI" URL="../sub_solve3x3submatrix.vi"/>
@@ -36,11 +37,11 @@
 			<Item Name="sub_transform3x3submatrix.vi" Type="VI" URL="../sub_transform3x3submatrix.vi"/>
 			<Item Name="sub_isInvalidPuzzle.vi" Type="VI" URL="../sub_isInvalidPuzzle.vi"/>
 			<Item Name="sub_verifyPuzzle.vi" Type="VI" URL="../sub_verifyPuzzle.vi"/>
+			<Item Name="sub_verifyRows.vi" Type="VI" URL="../sub_verifyRows.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
 		</Item>
-		<Item Name="sub_verifyRows.vi" Type="VI" URL="../sub_verifyRows.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
