@@ -31,7 +31,7 @@
 			<Item Name="sub_UnionOfValidValues.vi" Type="VI" URL="../sub_UnionOfValidValues.vi"/>
 			<Item Name="sub_updatePuzzle.vi" Type="VI" URL="../sub_updatePuzzle.vi"/>
 			<Item Name="sub_updateSolverArray.vi" Type="VI" URL="../sub_updateSolverArray.vi"/>
-			<Item Name="sub_getPotentialGuesses.vi" Type="VI" URL="../sub_getPotentialGuesses.vi"/>
+			<Item Name="sub_getNextGuess.vi" Type="VI" URL="../sub_getNextGuess.vi"/>
 			<Item Name="sub_solve1DArray.vi" Type="VI" URL="../sub_solve1DArray.vi"/>
 			<Item Name="sub_isRowSolved.vi" Type="VI" URL="../sub_isRowSolved.vi"/>
 			<Item Name="sub_transform3x3submatrix.vi" Type="VI" URL="../sub_transform3x3submatrix.vi"/>
@@ -39,11 +39,12 @@
 			<Item Name="sub_verifyPuzzle.vi" Type="VI" URL="../sub_verifyPuzzle.vi"/>
 			<Item Name="sub_verifyRows.vi" Type="VI" URL="../sub_verifyRows.vi"/>
 			<Item Name="sub_applyGuess.vi" Type="VI" URL="../sub_applyGuess.vi"/>
+			<Item Name="sub_queue_algorithm.vi" Type="VI" URL="../sub_queue_algorithm.vi"/>
+			<Item Name="sub_isQueueEmpty" Type="VI" URL="../sub_isQueueEmpty"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
 		</Item>
-		<Item Name="sub_makeGuess.vi" Type="VI" URL="../sub_makeGuess.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
