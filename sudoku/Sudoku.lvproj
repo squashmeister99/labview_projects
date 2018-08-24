@@ -37,10 +37,14 @@
 			<Item Name="sub_transform3x3submatrix.vi" Type="VI" URL="../sub_transform3x3submatrix.vi"/>
 			<Item Name="sub_isInvalidPuzzle.vi" Type="VI" URL="../sub_isInvalidPuzzle.vi"/>
 			<Item Name="sub_verifyPuzzle.vi" Type="VI" URL="../sub_verifyPuzzle.vi"/>
+			<Item Name="sub_addNextGuessToQueue.vi" Type="VI" URL="../sub_addNextGuessToQueue.vi"/>
+			<Item Name="sub_getNextTopLevelGuess.vi" Type="VI" URL="../sub_getNextTopLevelGuess.vi"/>
+			<Item Name="sub_undoInvalidGuess.vi" Type="VI" URL="../sub_undoInvalidGuess.vi"/>
 			<Item Name="sub_verifyRows.vi" Type="VI" URL="../sub_verifyRows.vi"/>
 			<Item Name="sub_applyGuess.vi" Type="VI" URL="../sub_applyGuess.vi"/>
-			<Item Name="sub_queue_algorithm.vi" Type="VI" URL="../sub_queue_algorithm.vi"/>
 			<Item Name="sub_isQueueEmpty" Type="VI" URL="../sub_isQueueEmpty"/>
+			<Item Name="sub_initializeTopLevelQueue.vi" Type="VI" URL="../sub_initializeTopLevelQueue.vi"/>
+			<Item Name="sub_getQueueSizes.vi" Type="VI" URL="../sub_getQueueSizes.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
