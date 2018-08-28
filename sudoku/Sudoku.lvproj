@@ -45,6 +45,8 @@
 			<Item Name="sub_isQueueEmpty" Type="VI" URL="../sub_isQueueEmpty"/>
 			<Item Name="sub_initializeTopLevelQueue.vi" Type="VI" URL="../sub_initializeTopLevelQueue.vi"/>
 			<Item Name="sub_getQueueSizes.vi" Type="VI" URL="../sub_getQueueSizes.vi"/>
+			<Item Name="sub_setAlternateCellValue.vi" Type="VI" URL="../sub_setAlternateCellValue.vi"/>
+			<Item Name="outputDebugString.vi" Type="VI" URL="../../debug_helpers/outputDebugString.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
@@ -64,6 +66,7 @@
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 			</Item>
+			<Item Name="kernel32.dll" Type="Document" URL="/C/Windows/System32/kernel32.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
