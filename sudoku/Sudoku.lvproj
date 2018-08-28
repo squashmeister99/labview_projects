@@ -31,6 +31,7 @@
 			<Item Name="sub_UnionOfValidValues.vi" Type="VI" URL="../sub_UnionOfValidValues.vi"/>
 			<Item Name="sub_updatePuzzle.vi" Type="VI" URL="../sub_updatePuzzle.vi"/>
 			<Item Name="sub_updateSolverArray.vi" Type="VI" URL="../sub_updateSolverArray.vi"/>
+			<Item Name="outputDebugString.vi" Type="VI" URL="../../debug_helpers/outputDebugString.vi"/>
 			<Item Name="sub_getNextGuess.vi" Type="VI" URL="../sub_getNextGuess.vi"/>
 			<Item Name="sub_solve1DArray.vi" Type="VI" URL="../sub_solve1DArray.vi"/>
 			<Item Name="sub_isRowSolved.vi" Type="VI" URL="../sub_isRowSolved.vi"/>
@@ -46,7 +47,6 @@
 			<Item Name="sub_initializeTopLevelQueue.vi" Type="VI" URL="../sub_initializeTopLevelQueue.vi"/>
 			<Item Name="sub_getQueueSizes.vi" Type="VI" URL="../sub_getQueueSizes.vi"/>
 			<Item Name="sub_setAlternateCellValue.vi" Type="VI" URL="../sub_setAlternateCellValue.vi"/>
-			<Item Name="outputDebugString.vi" Type="VI" URL="../../debug_helpers/outputDebugString.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
