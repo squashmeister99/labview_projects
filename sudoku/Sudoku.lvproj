@@ -19,6 +19,7 @@
 			<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		</Item>
 		<Item Name="subVIs" Type="Folder">
+			<Item Name="sub_arrayIntersection.vi" Type="VI" URL="../sub_arrayIntersection.vi"/>
 			<Item Name="sub_3x3_indexes.vi" Type="VI" URL="../sub_3x3_indexes.vi"/>
 			<Item Name="sub_enqueue commands.vi" Type="VI" URL="../sub_enqueue commands.vi"/>
 			<Item Name="sub_findMissingNumbersAndIndexes.vi" Type="VI" URL="../sub_findMissingNumbersAndIndexes.vi"/>
@@ -27,7 +28,6 @@
 			<Item Name="sub_checkPuzzleStatus.vi" Type="VI" URL="../sub_checkPuzzleStatus.vi"/>
 			<Item Name="sub_load_puzzles.vi" Type="VI" URL="../sub_load_puzzles.vi"/>
 			<Item Name="sub_solve3x3submatrix.vi" Type="VI" URL="../sub_solve3x3submatrix.vi"/>
-			<Item Name="sub_UnionOfValidValues.vi" Type="VI" URL="../sub_UnionOfValidValues.vi"/>
 			<Item Name="sub_updatePuzzle.vi" Type="VI" URL="../sub_updatePuzzle.vi"/>
 			<Item Name="sub_updateSolverArray.vi" Type="VI" URL="../sub_updateSolverArray.vi"/>
 			<Item Name="outputDebugString.vi" Type="VI" URL="../../debug_helpers/outputDebugString.vi"/>
@@ -46,11 +46,11 @@
 			<Item Name="sub_setAlternateCellValue.vi" Type="VI" URL="../sub_setAlternateCellValue.vi"/>
 			<Item Name="sub_getNextValidGuess.vi" Type="VI" URL="../sub_getNextValidGuess.vi"/>
 			<Item Name="sub_solver_algorithm.vi" Type="VI" URL="../sub_solver_algorithm.vi"/>
+			<Item Name="sub_nextGuess.vi" Type="VI" URL="../sub_nextGuess.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="sub_sudoku_template.vit" Type="VI" URL="../sub_sudoku_template.vit"/>
 		</Item>
-		<Item Name="sub_nextGuess.vi" Type="VI" URL="../sub_nextGuess.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
