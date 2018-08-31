@@ -35,7 +35,6 @@
 			<Item Name="sub_solve1DArray.vi" Type="VI" URL="../sub_solve1DArray.vi"/>
 			<Item Name="sub_isRowSolved.vi" Type="VI" URL="../sub_isRowSolved.vi"/>
 			<Item Name="sub_transform3x3submatrix.vi" Type="VI" URL="../sub_transform3x3submatrix.vi"/>
-			<Item Name="sub_verifyPuzzle.vi" Type="VI" URL="../sub_verifyPuzzle.vi"/>
 			<Item Name="sub_getNextTopLevelGuess.vi" Type="VI" URL="../sub_getNextTopLevelGuess.vi"/>
 			<Item Name="sub_verifyRows.vi" Type="VI" URL="../sub_verifyRows.vi"/>
 			<Item Name="sub_applyGuess.vi" Type="VI" URL="../sub_applyGuess.vi"/>
